@@ -356,7 +356,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://59ec5453559f0.streamlock.net/miamitvmodels/_definst_/smil:529634/chunklist_w959983628_b5096000.m3u8
 
-#EXTINF:-1 tvg-logo="https://64.media.tumblr.com/4679f87f783a064718661715ae83f0c2/tumblr_mpowajPNeW1szbw5io1_500.jpg" group-title="HIBURAN", A3B ikini
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pLptMdu.jpeg" group-title="HIBURAN", A3B ikini
+https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://64.media.tumblr.com/4679f87f783a064718661715ae83f0c2/tumblr_mpowajPNeW1szbw5io1_500.jpg" group-title="HIBURAN", Kaloo py
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8
 
 
