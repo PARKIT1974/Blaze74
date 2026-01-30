@@ -296,10 +296,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDang
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mediampd/CitraDramaHD.mpd
 
-#EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="HIBURAN", DAAI TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
+#EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="HIBURAN", DAAI TV (DENS)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" tvg-id="102" , DENS SHOWBIZ
 #KODIPROP:inputstream=inputstream.adaptive
@@ -334,11 +336,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
-#EXTINF:-1 tvg-id="MTVLive.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/e/e9/MTV_Live_HD_(2017-.n.v.).png" group-title="HIBURAN",MTV LIVE HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
-https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://www.pramborsfm.com/img/coverArt.jpg", PRAMBORS (INDI)
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
 
 ##EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", Lifetime HD (FM)
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -403,8 +402,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&amp;userid=wn
 #EXTINF:-1 tvg-id="ABCNews.au@Sydney" tvg-logo="https://i.imgur.com/BrW7gk8.png" group-title="BERITA PENGETAHUAN", ABC News
 https://c.mjh.nz/abc-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="BERITA PENGETAHUAN", BBC News Asia Pacific (1080p)
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="BERITA PENGETAHUAN" tvg-logo="https://i.imgur.com/vSz2WEp.png",BBC NEWS (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="FOX News - [Channel 335].id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://storage.googleapis.com/broadcastdialogue.com/uploads/2023/05/Fox-News-Channel.jpg" group-title="BERITA PENGETAHUAN",FOX NEWS HD
 #EXTVLCOPT:http-referrer=https://www.newslive.com/
