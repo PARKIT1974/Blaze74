@@ -4,7 +4,7 @@
 ============================================ PLAYLIST INI GRATIS ======================================================
 ========================================= TIDAK UNTUK DIPERJUAL BELIKAN================================================
 ========================================= HARAM JIKA DIPERJUAL BELIKAN ================================================
-===================================== PLAYLIST MEGA RINGAN 10 Desember 2025 ===========================================
+===================================== PLAYLIST MEGA RINGAN 24 Januari 2026 ============================================
 ============================================  KHUSUS CALISTA IPTV  ====================================================
 
 
@@ -222,14 +222,25 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS", UNIFI SPORTS
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png",Women's Sports Network 
+https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8
+https://womensnetwork-vizio.amagi.tv/hls/amagi_hls_data_vizioAAAA-womensnetwork-vizio/CDN/playlist.m3u8
+https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="dubaisports2.ae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65159df2a1.png",Dubai Sports 2 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/master.m3u8 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Title_card_for_HBO_World_Championship_Boxing%2C_2013.png" group-title="SPORTS", HBO BOXING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="dubaisports3.ae" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/65dc4f148c.png",Dubai Sports 3 
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://variety.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark.jpg", FUBO SPORTS NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://cascadiamtb.com/wp-content/uploads/2014/08/20140803-170534-61534609.jpg" group-title="SPORTS" , REDBULL TV
@@ -491,13 +502,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #KODIPROP:inputstream.adaptive.license_key=f08c30b7ee114399b72e77b0c099244b:a33d496875d04510a9b3116ba51ae65d
 https://atemecdnbalancer-voe.sysln.id/live/eds/DreamWorksHD/mediampd/DreamWorksHD.mpd
 
-#EXTINF:-1 tvg-id="Dunia anak" tvg-logo="https://images.indihometv.com/logo_duniaanak_big1.png" group-title="KARTUN ANAK", DUNIA ANAK
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
-https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+#EXTINF:-1 tvg-id="Fun Planet" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="KARTUN ANAK" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png", FUNPLANET (INDI)
+https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 group-title="KARTUN ANAK" tvg-logo="https://images.indihometv.com/logo_horee_big.png?v=2.0.0.13",HOREE! (FM)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -505,10 +511,12 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png" group-title="KARTUN ANAK", MENTARI TV (VID)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://dusk.biz.id/vinteo-lokal/prodeo.m3u8?id=8237&type=hls
+#EXTINF:-1 tvg-id="Kids TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/xyWkbiv.png" group-title="KARTUN ANAK", KIDS TV (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1, tvg-logo="https://images.indihometv.com/logo_mykids_big.png?v=2.0.0.13" group-title="KARTUN ANAK", MY KIDZ HD
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
