@@ -222,11 +222,11 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png",Women's Sports Network 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1555245188532027394/dQu79Bb8_400x400.png", Women's Sports Network 
 https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8
-https://womensnetwork-vizio.amagi.tv/hls/amagi_hls_data_vizioAAAA-womensnetwork-vizio/CDN/playlist.m3u8
-https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+##https://womensnetwork-vizio.amagi.tv/hls/amagi_hls_data_vizioAAAA-womensnetwork-vizio/CDN/playlist.m3u8
+##https://faststudios-womensnetwork-tcl.amagi.tv/playlist.m3u8
+##https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Title_card_for_HBO_World_Championship_Boxing%2C_2013.png" group-title="SPORTS", HBO BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -235,13 +235,10 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/out/v1/4ca8071b437142ffb1bea21340b0ba05/cenc.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://variety.com/wp-content/uploads/2019/06/fubo-sports-network-logo-dark.jpg", FUBO SPORTS NETWORK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3dcfbec0e7146928baa55210bf2cb62f":"bc85f74f815d9be5ae1dd6defaa05135"}
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://cascadiamtb.com/wp-content/uploads/2014/08/20140803-170534-61534609.jpg" group-title="SPORTS" , REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
