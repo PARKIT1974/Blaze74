@@ -183,10 +183,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nba_big1.png" group-title="SPORTS",NBA PH
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/uODWP9s.png", AllPLAY SPORTS (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/EYNMoIL.jpeg" group-title="SPORTS",SPORTSTARS 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -213,8 +211,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7m1R8y7.png",STRONG MAN CHAMPIONS
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_nba_big1.png" group-title="SPORTS",NBA PH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeX85Es.png" group-title="SPORTS",ONE SPORTS+ HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -240,6 +240,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
+
 #EXTINF:-1 channel-id="samsung-GBBD2300003IK" tvg-id="GBBD2300003IK" tvg-chno="4513" tvg-logo="https://cascadiamtb.com/wp-content/uploads/2014/08/20140803-170534-61534609.jpg" group-title="SPORTS" , REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
@@ -260,6 +261,9 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/7m1R8y7.png",STRONG MAN CHAMPIONS
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVeFlr.png" group-title="SPORTS",SPORTV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
@@ -269,9 +273,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/uODWP9s.png", AllPLAY SPORTS (INDI)
-https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
 
 =========================================================================================
