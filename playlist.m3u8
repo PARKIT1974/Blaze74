@@ -586,6 +586,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 ===================================  FILM  =======================================
 ==================================================================================
 
+#EXTINF:-1 tvg-id="ATV.id" tvg-name="" tvg-logo="https://images.indihometv.com/logo_atv_big.png?v=2.0.0.13" group-title="FILM", ATV (INDI)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_axn_big.png" group-title="FILM", AXN (V+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -658,15 +662,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 ##EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://i.imgur.com/KDc6gxe.png" group-title="FILM", CINEMAX HD (INDI)
 ##https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DFl9iBg.png" group-title="FILM", MAXSTREAM (INDI)
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://images.indihometv.com/logo_mycinemaasia_big.png" group-title="FILM",MY CINEMA ASIA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/90HD3HJ.png",ROCK ACTION (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
