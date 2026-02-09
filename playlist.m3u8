@@ -443,8 +443,11 @@ https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="BERITA PENGETAHUAN", National Geographic Wild
-https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-name="National Geographic Wild HD" tvg-id="national-geographic-wild" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nat-geo-wild-us.png?raw=true" group-title="BERITA PENGETAHUAN", National Geographic Wild 🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffa7c3ca6020428c919e13b817b7e31b:adf163c6c1729e6f77668d4e49f32352
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561201/index.mpd
+##https://at-live-3.tentcdn.eu/bpk-tv/Nat_Geo_People_HD/default/index.mpd
 
 ##EXTINF:-1 group-title="BERITA PENGETAHUAN" tvg-logo="https://images.indihometv.com/logo_natgeowild_big.png?v=2.0.0.13", NAT GEO WILD
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -475,10 +478,17 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mediampd/DiscoveryAsi
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13" group-title="BERITA PENGETAHUAN", ANIMAL PLANET (PH)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13" group-title="BERITA PENGETAHUAN", ANIMAL PLANET 🇺🇸
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
+
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13" group-title="BERITA PENGETAHUAN", ANIMAL PLANET (PH)
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
+##https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
 
 ##EXTINF:-1 group-title="BERITA PENGETAHUAN"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET (INDI)
 ##https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
@@ -662,10 +672,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 ##EXTINF:-1 tvg-id="Cinemax" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://i.imgur.com/KDc6gxe.png" group-title="FILM", CINEMAX HD (INDI)
 ##https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://images.indihometv.com/logo_mycinemaasia_big.png" group-title="FILM",MY CINEMA ASIA
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XWNh33v.png" group-title="FILM", MYCINEMA (DENS)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/90HD3HJ.png",ROCK ACTION (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
