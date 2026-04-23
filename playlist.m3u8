@@ -318,13 +318,13 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 
-#EXTINF:0 tvg-logo="https://images.indihometv.com/logo_citradangdut_big.png" group-title="HIBURAN",CITRA DANGDUT (FM) 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
+##EXTINF:0 tvg-logo="https://images.indihometv.com/logo_citradangdut_big.png" group-title="HIBURAN",CITRA DANGDUT (FM) 
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+##https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://images.indihometv.com/logo_eatgo_big1.png", EAT N GO (INDI)
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://images.indihometv.com/logo_eatgo_big1.png", EAT N GO (TRANS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://103.58.160.157:8278/720-EATNGO/playlist.m3u8
 
@@ -366,7 +366,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
-https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
+##https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg" group-title="HIBURAN", Max Eats (INDI)
