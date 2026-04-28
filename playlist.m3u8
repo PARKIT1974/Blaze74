@@ -361,13 +361,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180_x_180__2026_02_12_15_17_01.png" group-title="HIBURAN", MAXSTREAM (INDI)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
-##https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
+##EXTINF:-1 tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180_x_180__2026_02_12_15_17_01.png" group-title="HIBURAN", MAXSTREAM (INDI)
+##EXTVLCOPT:http-referrer=https://www.indihometv.com/
+##EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
+###https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
+##https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
 #EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg" group-title="HIBURAN", Max Eats (INDI)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -395,6 +395,9 @@ http://103.58.160.157:8278/720-MUSIKINDONESIA/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="HIBURAN", MyZen TV (1080p)
 ##https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FashionTVSecrets.fr@HD" tvg-logo="https://i.imgur.com/DKf6GvJ.png" group-title="HIBURAN",FashionTV Secrets (1080p)
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
 
 #EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFPvkFI0oxr0nBQYlFaazOaG8eoqTY1yjSg&s", Fashion Channel Italy TV
 https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
@@ -432,6 +435,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://64.media.tumblr.com/4679f87f783a064718661715ae83f0c2/tumblr_mpowajPNeW1szbw5io1_500.jpg" group-title="HIBURAN", Kaloo py
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
+
+##EXTINF:-1 tvg-id="KaloopyTV.us@SD" tvg-logo="https://i.imgur.com/XPyOTZF.jpeg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Lifestyle",Kaloopy  (720p) (Work)
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+##https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/master.m3u8?ads.vf=rcUK9fMyEw0
 
 ##EXTINF:-1 tvg-logo="https://64.media.tumblr.com/4679f87f783a064718661715ae83f0c2/tumblr_mpowajPNeW1szbw5io1_500.jpg" group-title="HIBURAN", Kaloo py
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
@@ -637,10 +644,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/in
 ===================================  FILM  =======================================
 ==================================================================================
 
-#EXTINF:-1 tvg-id="ATV.id" tvg-name="" tvg-logo="https://images.indihometv.com/logo_atv_big.png?v=2.0.0.13" group-title="FILM", ATV (INDI)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id="AsianCrush.us@SD" tvg-logo="https://imgur.com/a/K8rttv1" group-title="FILM", ASIANCRUSH (1080p)
+https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_axn_big.png" group-title="FILM", AXN (V+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -658,11 +663,10 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/3dWIYD0.png", CITRA BIOSKOP 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
+#EXTINF:-1 group-title="FILM" tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_big1.png", Bioskop Indonesia (INDI)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest_wuseetv.mpd
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (INDI)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
