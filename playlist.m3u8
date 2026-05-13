@@ -175,19 +175,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/in
 #EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN (INDI)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=33e5bead1364469aa10625a95f512d44:4bad449e73fde62396a03b9d82f81b7f
-https://indihuy.streamized.net/dassdvr/130/dunialain/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/dunialain/manifest.mpd
 
-##EXTVLCOPT:http-referrer=https://maxstream.tv/
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-##https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
-
-##KODIPROP:inputstream.adaptive.manifest_type=dash
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/0hue5s0r/drm
-##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN (CUB)
-##https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd?sign=f4c9b499d9cc40d9b388ba2de1d2bbe1&time=1765365918
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://test.ambatukan.workers.dev/cubmu/0hue5s0r/drm
+#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN (CUB)
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd?sign=f4c9b499d9cc40d9b388ba2de1d2bbe1&time=1765365918
 
 
 =============================================================================================
