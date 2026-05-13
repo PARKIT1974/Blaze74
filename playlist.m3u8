@@ -173,9 +173,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_dunialain_big.png",DUNIA LAIN (INDI)
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33e5bead1364469aa10625a95f512d44:4bad449e73fde62396a03b9d82f81b7f
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+https://indihuy.streamized.net/dassdvr/130/dunialain/manifest.mpd
+
+##EXTVLCOPT:http-referrer=https://maxstream.tv/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+##https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
 
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -377,10 +383,15 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLi
 ###https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
 ##https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
 
+##EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg" group-title="HIBURAN", Max Eats (INDI)
+##EXTVLCOPT:http-referrer=https://www.indihometv.com/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+##https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
 #EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSEats_2026_01_30_13_57_28.jpg" group-title="HIBURAN", Max Eats (INDI)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
 
 ##EXTINF:-1 group-title="HIBURAN" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSReels_2026_01_31_00_37_47.jpg", Max Reels (INDI)
 ##https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
