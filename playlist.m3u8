@@ -96,11 +96,12 @@ https://indihuy.streamized.net/atm/DASH/inews/inews-avc1_2500000=7-3277707030000
 ##KODIPROP:inputstream.adaptive.license_key=http://enak.maling.pl/license?ch=41vU31_yOBQO7T9R4Qdl_t5Ef-2toUdi00BkPFN6IApj948uZQOlKFKz7ruWiiu717MnPteqTNLPoj_GB0v4KzfYYZTLlEW6xnO-xpfdkjMgi8rajbSYxuxYpe-nhcIRosoiln_L2FE8VRvZIpBVxok-VxsFheIG6wepAei2-rA
 ##http://enak.maling.pl/play.mpd?ch=41vU31_yOBQO7T9R4Qdl_rJNQNtSEBjpvPLA72a43PUPw0CezEzwqfqaA0KVZMnqFDumA9NZWhE3s75Oh6325xlTAJY07ZvpKvip-_Qq4G41DEVFxW93SivADXS4jgQMJY-7oANMbnOmFtMkb4_wKT7Bmg3elDgzzCerq0Ve_Ik
 
-##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (FM)
-##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-##KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (FM)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
 ##KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
-##https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
 ##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_afc_big.png", ASIAN FOOD NETWORK (INDI)
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
