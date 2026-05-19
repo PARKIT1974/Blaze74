@@ -113,12 +113,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/afc/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", AFN ᴴᴰ (Philippine)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", AFN ᴴᴰ (Philippine) (Work)
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+##https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="afnhd" group-title="CHANNEL FAVORITE" tvg-logo="https://raw.githubusercontent.com/PhatBee/phatbeetv/refs/heads/main/logo/QuocTe/afn.png", Asian Food Network HD (Vietnam)
+#EXTINF:-1 tvg-id="afnhd" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_afc_big.png", Asian Food Network HD (Vietnam)
 https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
 #EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png" tvg-id="117" , DENS Food Channel
@@ -369,15 +369,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d017034201
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Dunia_Lain.svg/1280px-Logo_Dunia_Lain.svg.png" group-title="HIBURAN", Dunia Lain
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #EXTINF:-1 tvg-id="Citra.Entertainment.id" tvg-name="Citra Entertainment" tvg-logo="https://images.indihometv.com/logo_citraentertainment_big.png" group-title="HIBURAN", CITRA ENTERTAINMENT (FM)
