@@ -15,7 +15,7 @@
 ==============================================================================================================
 
 
-#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="CHANNEL FAVORITE", iNews (V+)
+#EXTINF:0 tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="CHANNEL FAVORITE", iNews (V+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=4&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
