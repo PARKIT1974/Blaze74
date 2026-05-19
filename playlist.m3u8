@@ -57,7 +57,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 #EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png", Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
 ##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (V+)
 ##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
