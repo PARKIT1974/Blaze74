@@ -128,13 +128,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/afc/manifest_wuseetv.mpd
 
-##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", AFN ᴴᴰ (Philippine) (Work)
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-##https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", AFN ᴴᴰ (Philippine)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="afnhd" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_afc_big.png", AFN HD (Vietnam)
-https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
+##EXTINF:-1 tvg-id="afnhd" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_afc_big.png", AFN HD (Vietnam)
+##https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
 #EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png" tvg-id="117" , DENS Food Channel
 #KODIPROP:inputstream=inputstream.adaptive
@@ -157,10 +157,16 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-#EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://i.imgur.com/e9uVSRe.png" group-title="CHANNEL FAVORITE", MAX EATS (INDI)
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
+##EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://i.imgur.com/e9uVSRe.png" group-title="CHANNEL FAVORITE", MAX EATS (INDI)
+##EXTVLCOPT:http-referrer=https://maxstream.tv/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+##https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/e9uVSRe.png", MAX EATS (INDI)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+##https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 tvg-id="CelestialMovies.hk" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_celestialmovie_big.png" group-title="CHANNEL FAVORITE",Celestial Movies (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
