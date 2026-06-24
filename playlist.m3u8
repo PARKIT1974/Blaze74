@@ -136,7 +136,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/defaul
 ##EXTINF:-1 tvg-id="afnhd" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_afc_big.png", AFN HD (Vietnam)
 ##https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
 
-#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png", DENS Food Channel (Baru)
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png", DENS Food Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
 
@@ -147,12 +147,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
 
-#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png" tvg-id="117" , DENS Food Channel
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
+##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png" tvg-id="117" , DENS Food Channel (Work)
+##KODIPROP:inputstream=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=hls
+##EXTVLCOPT:http-referrer=https://delta.dens.tv/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yKw6vvt.png" group-title="CHANNEL FAVORITE", FOOD TRAVEL (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -431,12 +431,18 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="HIBURAN", DAAI TV (DENS)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://delta.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
+#EXTINF:-1 group-title="HIBURAN" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png", DAAI TV ᶠᶦʳˢᵗ
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
+
+##EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="HIBURAN", DAAI TV (DENS) (Work)
+##KODIPROP:inputstream=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=hls
+##EXTVLCOPT:http-referrer=https://delta.dens.tv/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" tvg-id="102" , DENS SHOWBIZ
 #KODIPROP:inputstream=inputstream.adaptive
