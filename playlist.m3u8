@@ -444,14 +444,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" tvg-id="102" , DENS SHOWBIZ
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmdMtmTm7GAYf2cRVD6e0q33-wUh9VI96OQ&s" tvg-id="102" , DENS SHOWBIZ
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 
-#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" tvg-id="42" , DENS LifeStyle
+#EXTINF:-1 group-title="HIBURAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOu8l9RJ-rACUGjMxhkypkzQtV12plKgYFSg&s" tvg-id="42" , DENS LifeStyle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
