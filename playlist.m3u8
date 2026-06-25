@@ -389,7 +389,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/ind
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
+http://op-group1-densxvisionhd-1.dens.tv/h/h06/index.m3u8
 
 ##EXTINF:0 tvg-logo="https://images.indihometv.com/logo_citradangdut_big.png" group-title="HIBURAN",CITRA DANGDUT (FM) 
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -463,14 +463,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
+http://op-group1-densxvisionhd-1.dens.tv/h/h244/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOu8l9RJ-rACUGjMxhkypkzQtV12plKgYFSg&s" tvg-id="42" , DENS LifeStyle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/TXIfrbG.jpeg", First Lifestyle HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -577,12 +577,12 @@ https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 =====================================================================================================
 
 
-#EXTINF:-1 tvg-id="" group-title="BERITA PENGETAHUAN" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_beritasatu_ver1.png",BTV (Dens)
+#EXTINF:-1 tvg-id="" group-title="BERITA PENGETAHUAN" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://images.indihometv.com/logo_beritasatu_ver1.png",BTV (DENS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aF84K7.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="BERITA PENGETAHUAN", CNBC ASIA (V+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -686,7 +686,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+http://op-group1-densxvisionhd-1.dens.tv/h/h236/index.m3u8
 
 =======================================================================================================
 ========================================= KARTUN ANAK =================================================
@@ -740,7 +740,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
 #EXTINF:-1, tvg-logo="https://images.indihometv.com/logo_mykids_big.png?v=2.0.0.13" group-title="KARTUN ANAK", MY KIDZ HD
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+http://op-group1-densxvisionhd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_nickelodeon_big.png" group-title="KARTUN ANAK" tvg-id="Nickelodeon.id", NICKELODEON
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -870,9 +870,9 @@ https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XWNh33v.png" group-title="FILM", MYCINEMA (DENS)
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-referrer=https://www.delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+https://op-group1-densxvisionhd-1.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/90HD3HJ.png",ROCK ACTION (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
