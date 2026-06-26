@@ -725,17 +725,14 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/in
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="KARTUN ANAK" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png", FUNPLANET (INDI)
-https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
-
-#EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="KARTUN ANAK" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg", MAXKids
+#EXTINF:-1 tvg-id="MAXKids.id@SD" group-title="KARTUN ANAK" tvg-logo="https://i.imgur.com/NXVef9W.png", MAXKids
 https://cdnbal1.indihometv.com/atm/DASH/indikids/indikids-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-title="KARTUN ANAK" tvg-logo="https://images.indihometv.com/logo_horee_big.png?v=2.0.0.13",HOREE! (FM)
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
+#EXTINF:-1 group-title="KARTUN ANAK" tvg-logo="https://images.indihometv.com/logo_horee_big.png?v=2.0.0.13", HOREE! (VI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6397
+https://tvratu.my.id/vid/index.mpd?id=6397
 
 #EXTINF:-1 tvg-id="Kids TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.imgur.com/xyWkbiv.png" group-title="KARTUN ANAK", KIDS TV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
