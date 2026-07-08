@@ -63,10 +63,10 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 ##http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvOne
 
-#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-name="TV Nasional" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png", METRO TV HD (DENS)
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" group-title="CHANNEL FAVORITE" tvg-name="TV Nasional" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png", METRO TV HD (DENS)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
-https://op-group1-densxvisionhd-1.dens.tv/h/h12/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
 ##EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (MAX)
 ##https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
@@ -76,7 +76,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 ##http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
-http://op-group1-densxvisionhd-1.dens.tv/h/h234/02.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h234/02.m3u8
 
 ##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (DENS)
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -153,7 +153,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/defaul
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h248/04.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h248/04.m3u8
 
 ##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/6ak0bzH.png" tvg-id="117" , DENS Food Channel (Work)
 ##KODIPROP:inputstream=inputstream.adaptive
@@ -456,14 +456,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-densxvisionhd-1.dens.tv/h/h244/index.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOu8l9RJ-rACUGjMxhkypkzQtV12plKgYFSg&s" tvg-id="42" , DENS LifeStyle
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-densxvisionhd-1.dens.tv/h/h222/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h222/02.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-name="" tvg-country="ID" tvg-logo="https://i.imgur.com/TXIfrbG.jpeg", First Lifestyle HD 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -575,7 +575,7 @@ https://streamingserver000.viewtv.cloud/VIEWTVNETWORK-KALOOPY/index.m3u8
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-https://op-group1-densxvisionhd-1.dens.tv/h/h210/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h210/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aF84K7.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="BERITA PENGETAHUAN", CNBC ASIA (V+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -678,7 +678,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-densxvisionhd-1.dens.tv/h/h236/index.m3u8
+http://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8
 
 =======================================================================================================
 ========================================= KARTUN ANAK =================================================
@@ -864,7 +864,7 @@ https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/XWNh33v.png" group-title="FILM", MYCINEMA (DENS)
 #EXTVLCOPT:http-referrer=https://www.delta.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-densxvisionhd-1.dens.tv/h/h192/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/90HD3HJ.png",ROCK ACTION (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
