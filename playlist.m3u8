@@ -125,6 +125,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##KODIPROP:inputstream.adaptive.license_key=http://enak.maling.pl/license?ch=41vU31_yOBQO7T9R4Qdl_t5Ef-2toUdi00BkPFN6IApj948uZQOlKFKz7ruWiiu717MnPteqTNLPoj_GB0v4KzfYYZTLlEW6xnO-xpfdkjMgi8rajbSYxuxYpe-nhcIRosoiln_L2FE8VRvZIpBVxok-VxsFheIG6wepAei2-rA
 ##http://enak.maling.pl/play.mpd?ch=41vU31_yOBQO7T9R4Qdl_rJNQNtSEBjpvPLA72a43PUPw0CezEzwqfqaA0KVZMnqFDumA9NZWhE3s75Oh6325xlTAJY07ZvpKvip-_Qq4G41DEVFxW93SivADXS4jgQMJY-7oANMbnOmFtMkb4_wKT7Bmg3elDgzzCerq0Ve_Ik
 
+#EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/KzNr9Q7.png" group-title="CHANNEL FAVORITE", Bon Appétit HD (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
 ##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (FM)
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -137,10 +140,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##KODIPROP:inputstream.adaptive.license_key=d591798aa38d43f9a879f2131227916f:c3eae7f33710d7d9e0058244aff37fb0
 ##https://cdn08jtedge.indihometv.com/dassdvr/130/afc/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", AFN ᴴᴰ (Philippine)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
+##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", AFN ᴴᴰ (Philippine)
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
+##https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/asianfoodnetwork_sd/default/index.mpd
 
 ##EXTINF:-1 tvg-id="afnhd" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_afc_big.png", AFN HD (Vietnam)
 ##https://liveh12.vtvprime.vn/hls/AFC/03.m3u8
@@ -248,7 +251,7 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="Sports" tvg-logo="https://images.indihometv.com/logo_spotv2_big.png", SPOTV 2
+#EXTINF:-1 tvg-id="SPOTV2.id@SD" group-title="SPORTS" tvg-logo="https://images.indihometv.com/logo_spotv2_big.png", SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
