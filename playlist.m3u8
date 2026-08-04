@@ -90,6 +90,11 @@ https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-32777
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 ##https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://i.imgur.com/f1Zn3uo.png" group-title="CHANNEL FAVORITE", KOMPAS TV (DENS)
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
 ##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (V+)
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 ##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
