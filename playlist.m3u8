@@ -426,24 +426,22 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 ##KODIPROP:inputstream.adaptive.license_key=http://cubmu.adptv.workers.dev/
 ##https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
-#EXTINF:-1 tvg-id="Citra.Entertainment.id" tvg-name="Citra Entertainment" tvg-logo="https://images.indihometv.com/logo_citraentertainment_big.png" group-title="HIBURAN", CITRA ENTERTAINMENT (FM)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
+#EXTINF:-1 tvg-id="Xing kong TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-title="HIBURAN" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/international/xingkong.jpg?raw=true", XING KONG (V+)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
 
-#EXTINF:-1 group-title="HIBURAN" tvg-name="TV Religi" tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png", DAAI TV ᶠᶦʳˢᵗ
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mediampd/DAAITV.mpd
-
-##EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="HIBURAN", DAAI TV (DENS) (Work)
+#EXTINF:-1 tvg-id="23" tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="HIBURAN", DAAI TV (DENS)
 ##KODIPROP:inputstream=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=hls
-##EXTVLCOPT:http-referrer=https://delta.dens.tv/
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-##http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+KODIPROP:contentlookup=false
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 
 #EXTINF:-1 group-title="HIBURAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpmdMtmTm7GAYf2cRVD6e0q33-wUh9VI96OQ&s" tvg-id="102" , DENS SHOWBIZ
 #KODIPROP:inputstream=inputstream.adaptive
