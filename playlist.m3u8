@@ -103,8 +103,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##KODIPROP:inputstream.adaptive.license_key=http://enak.maling.pl/license?ch=41vU31_yOBQO7T9R4Qdl_t5Ef-2toUdi00BkPFN6IApj948uZQOlKFKz7ruWiiu717MnPteqTNLPoj_GB0v4KzfYYZTLlEW6xnO-xpfdkjMgi8rajbSYxuxYpe-nhcIRosoiln_L2FE8VRvZIpBVxok-VxsFheIG6wepAei2-rA
 ##http://enak.maling.pl/play.mpd?ch=41vU31_yOBQO7T9R4Qdl_rJNQNtSEBjpvPLA72a43PUPw0CezEzwqfqaA0KVZMnqFDumA9NZWhE3s75Oh6325xlTAJY07ZvpKvip-_Qq4G41DEVFxW93SivADXS4jgQMJY-7oANMbnOmFtMkb4_wKT7Bmg3elDgzzCerq0Ve_Ik
 
-#EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/STyhzle.png" group-title="CHANNEL FAVORITE", Bon Appétit HD (1080p)
-https://bonappetit-samsung.amagi.tv/playlist.m3u8
+##EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/STyhzle.png" group-title="CHANNEL FAVORITE", Bon Appétit HD (1080p) (Work good)
+##https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (TS)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://013tv.com:8080/live/F33848/cbd9779b/298503.ts
 
 ##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (FM)
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -762,14 +767,17 @@ http://103.148.44.38:8000/play/a06w/index.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ##https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (INDI)
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (TS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 #https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179198
+#http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179198
+http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
 
 #EXTINF:-1 group-title="FILM" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png", Galaxy Premium (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
