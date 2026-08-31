@@ -103,14 +103,14 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ##KODIPROP:inputstream.adaptive.license_key=http://enak.maling.pl/license?ch=41vU31_yOBQO7T9R4Qdl_t5Ef-2toUdi00BkPFN6IApj948uZQOlKFKz7ruWiiu717MnPteqTNLPoj_GB0v4KzfYYZTLlEW6xnO-xpfdkjMgi8rajbSYxuxYpe-nhcIRosoiln_L2FE8VRvZIpBVxok-VxsFheIG6wepAei2-rA
 ##http://enak.maling.pl/play.mpd?ch=41vU31_yOBQO7T9R4Qdl_rJNQNtSEBjpvPLA72a43PUPw0CezEzwqfqaA0KVZMnqFDumA9NZWhE3s75Oh6325xlTAJY07ZvpKvip-_Qq4G41DEVFxW93SivADXS4jgQMJY-7oANMbnOmFtMkb4_wKT7Bmg3elDgzzCerq0Ve_Ik
 
-##EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/STyhzle.png" group-title="CHANNEL FAVORITE", Bon Appétit HD (1080p) (Work good)
-##https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bonappetit.us@SD" tvg-logo="https://i.imgur.com/STyhzle.png" group-title="CHANNEL FAVORITE", Bon Appétit HD (1080p)
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (TS)
+##EXTINF:-1 tvg-id="Asian.Food.Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (TS) (Work Lag)
 ##EXTVLCOPT:http-referrer=https://www.indihometv.com/
 ##EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://013tv.com:8080/live/F33848/cbd9779b/298503.ts
+##http://013tv.com:8080/live/F33848/cbd9779b/298503.ts
 
 ##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_afc_big.png" group-title="CHANNEL FAVORITE", ASIAN FOOD NETWORK (FM)
 ##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -862,14 +862,17 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://images.indihometv.com/logo_tvnmovies_big.png", TVN MOVIES (V+)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
-https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+##EXTINF:-1 group-title="FILM" tvg-logo="https://images.indihometv.com/logo_tvnmovies_big.png", TVN MOVIES (V+)
+##EXTVLCOPT:http-referrer=https://www.visionplus.id/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+##KODIPROP:inputstream=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=mpd
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+##https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#EXTINF:-1 tvg-id="tvNMoviesAsia.hk@SD" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_tvnmovies_big.png", tvN MOVIES (MAX)
+https://cdnbal1.indihometv.com/atm/DASH/tvnmovies/tvnmovies-avc1_2500000=7-3277707030000000.mpd
 
 ##EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_big.png" group-title="FILM", WARNER TV (INDI)
 ##EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
