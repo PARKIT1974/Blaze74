@@ -165,15 +165,18 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h248/04.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
+#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://i.imgur.com/yPDlOuB.png" group-title="CHANNEL FAVORITE", CHINA TRAVEL
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+
 ##EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://i.imgur.com/e9uVSRe.png" group-title="CHANNEL FAVORITE", MAX EATS (INDI)
 ##EXTVLCOPT:http-referrer=https://maxstream.tv/
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 ##https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
 
-#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/e9uVSRe.png", MAX EATS (INDI)
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
+##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/e9uVSRe.png", MAX EATS (INDI)
+##EXTVLCOPT:http-referrer=https://www.indihometv.com/
+##EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+##https://cdnbal1.indihometv.com/atm/DASH/maxeats/maxeats-avc1_2500000=7-3277707030000000.mpd
 ##https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_celestialmovie_big.png", Celestial Movies (V+)
