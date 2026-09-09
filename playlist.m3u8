@@ -75,15 +75,19 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-##EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png" group-title="CHANNEL FAVORITE", CNN INDONESIA (ChannelFeed)
-##KODIPROP:inputstream=inputstream.adaptive
-##KODIPROP:inputstream.adaptive.manifest_type=hls
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-##EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png", CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1788940093/ei/3bqgaqGkD8XNjuMP6_r9oAg/ip/2404%3Ac0%3Ac601%3A4edb%3Ae00d%3A5e56%3Ace4d%3A2a7/id/PDDOkUq33Sw.14/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AR3QkAm_a2_6Y7tUP49M7D_7BUbWOnayIN24T2mdke1BCWMNABfgc-8vhWH6vPlm42jc0CjkcneFhr9z/spc/I-rgIfZWDBUzEHOPghZJCzWwUR_pmCfcsbgoxdbPSguxg3yaLhyXn5M2qQ/vprv/1/go/1/ns/hyNyxBcaIp1gQunEH586nHoY/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C52135441%2C52189887/dover/11/n/S_GoIUEo8yx1DVXR/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRAIgXl_0AvTnwJ5fQsGevDjZppNhgreS839TKrWpKQq5iu4CIDTG6lUtlLKdJct9L4Yaji4t6eGIiohDhn-thwVYA0IM/file/index.m3u8
 
-##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png", CNN INDONESIA (Live)
-##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png" group-title="CHANNEL FAVORITE", CNN INDONESIA (ChannelFeed)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png", CNN INDONESIA (Live)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
 
 ##EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="CHANNEL FAVORITE", iNEWS (Maxstream)
 ##EXTVLCOPT:http-referrer=https://www.indihometv.com 
