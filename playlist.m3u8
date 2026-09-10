@@ -170,9 +170,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h248/04.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
-#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://i.imgur.com/yPDlOuB.png" group-title="CHANNEL FAVORITE", CHINA TRAVEL
-https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
-
 ##EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://i.imgur.com/e9uVSRe.png" group-title="CHANNEL FAVORITE", MAX EATS (INDI)
 ##EXTVLCOPT:http-referrer=https://maxstream.tv/
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -190,13 +187,6 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
-
-#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_imc_big.png" group-title="CHANNEL FAVORITE",INDONESIA MOVIE CHANNEL (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="CHANNEL FAVORITE",THRILL (V+)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -225,6 +215,9 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-id="china-travel" tvg-logo="https://i.imgur.com/yPDlOuB.png" group-title="CHANNEL FAVORITE", CHINA TRAVEL
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LoveNature.ca@4K" tvg-logo="https://i.imgur.com/j7pIdQk.png" group-title="CHANNEL FAVORITE", LOVE NATURE 4K (2160p)
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
@@ -783,17 +776,24 @@ http://013tv.com:8080/live/F33848/cbd9779b/298516.ts
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 ##https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (TS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="IMC" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_imc_big.png" group-title="FILM", INDONESIA MOVIE CHANNEL (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+##EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (TS)
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
 ##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-#https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
-#https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-#http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179198
-http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
+##https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
+##http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179198
+##http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
 
 #EXTINF:-1 group-title="FILM" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png", Galaxy Premium (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
