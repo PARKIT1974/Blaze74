@@ -815,40 +815,52 @@ http://202.150.161.212:5000/live/channel35/playlist.m3u8
 ##KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 ##https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="FILM" tvg-logo="https://i.imgur.com/yxgFmiC.png", HBO (Maxstream)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="FILM" tvg-logo="https://i.imgur.com/yxgFmiC.png", HBO (Maxstream)
+##KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+##KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+##KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+##https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO.Hits.id" tvg-name="HBO Hits" group-title="FILM" tvg-logo="https://i.imgur.com/Zt21I3M.png", HBO HITS (Maxstream)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/yxgFmiC.png", HBO FHD (OGIETV)
+https://ogietv.biz.id:443/Livetv/234/1363.m3u8
+
+##EXTINF:-1 tvg-id="HBO.Hits.id" tvg-name="HBO Hits" group-title="FILM" tvg-logo="https://i.imgur.com/Zt21I3M.png", HBO HITS (Maxstream)
+##KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+##KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+##KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+##https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="FILM" tvg-logo="https://i.imgur.com/fK6v0pl.png", HBO FAMILY (Maxstream)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/Zt21I3M.png", HBO HITS FHD (OGIETV)
+https://ogietv.biz.id:443/Livetv/234/1367.m3u8
+
+##EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="FILM" tvg-logo="https://i.imgur.com/fK6v0pl.png", HBO FAMILY (Maxstream)
+##KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+##KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+##KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="FILM" tvg-logo="https://i.imgur.com/KDc6gxe.png", CINEMAX (Maxstream)
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#EXTINF:-1group-title="FILM" tvg-logo="https://i.imgur.com/fK6v0pl.png", HBO FAMILY FHD (OGIETV)
+https://ogietv.biz.id:443/Livetv/234/1369.m3u8
+
+##EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="FILM" tvg-logo="https://i.imgur.com/KDc6gxe.png", CINEMAX (Maxstream)
+##KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+##KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+##KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+##https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/KDc6gxe.png", CINEMAX FHD (OGIETV)
+https://ogietv.biz.id:443/Livetv/234/1371.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/XWNh33v.png" group-title="FILM", MYCINEMA (DENS)
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
