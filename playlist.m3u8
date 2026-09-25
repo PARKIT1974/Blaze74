@@ -190,14 +190,14 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/in
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-##EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="CHANNEL FAVORITE",THRILL (V+)
+##EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="CHANNEL FAVORITE", THRILL (V+)
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 ##EXTVLCOPT:http-referrer=https://www.visionplus.id/
 ##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 ##KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
 ##https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
-#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title=CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_thrill_big.png", THRILL (MAX)
+#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_thrill_big.png", THRILL (MAX)
 https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/FkEC2u6.png", MNCTV (R+)
