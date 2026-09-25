@@ -4,7 +4,7 @@
 ============================================ PLAYLIST INI GRATIS ======================================================
 ========================================= TIDAK UNTUK DIPERJUAL BELIKAN================================================
 ========================================= HARAM JIKA DIPERJUAL BELIKAN ================================================
-===================================== PLAYLIST MEGA RINGAN 20 Juli 2026 ===============================================
+===================================== PLAYLIST MEGA RINGAN 25 September 2026 ==========================================
 ============================================  KHUSUS CALISTA IPTV  ====================================================
 
 
@@ -15,11 +15,7 @@
 ==============================================================================================================
 
 
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png", INDOSIAR HD (VID)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
-
-#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="CHANNEL FAVORITE", INDOSIAR HD (VID) (Work)
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="CHANNEL FAVORITE", INDOSIAR FHD (VID)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -27,17 +23,17 @@ https://beetv.my.id/xstreamx/vd.m3u8?ch=indosiar
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="Indosiar.id@SDr" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="CHANNEL FAVORITE",Indosiar (Vidio) (Work)
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://vidsemar.pages.dev/terraluna2/205.mpd
+##EXTINF:-1 tvg-id="Indosiar.id@SDr" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="CHANNEL FAVORITE", Indosiar (Vidio) (Work) (Work)
+##EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+##KODIPROP:inputstream=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=mpd
+##https://vidsemar.pages.dev/terraluna2/205.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id@SDr" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="CHANNEL FAVORITE",Indosiar (KITKAT)
-https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Indosiar.m3u8
+##EXTINF:-1 tvg-id="Indosiar.id@SDr" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="CHANNEL FAVORITE", Indosiar (KITKAT) (Work)
+##https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Indosiar.m3u8
 
-#EXTINF:-1 tvg-name="ID: Indosiar" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="CHANNEL FAVORITE", INDOSIAR (MAX) (Work)
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
+##EXTINF:-1 tvg-name="ID: Indosiar" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="CHANNEL FAVORITE", INDOSIAR (MAX) (Work)
+##https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4gsIGa4.png" group-title="CHANNEL FAVORITE", RCTI HD (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -73,11 +69,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
 
-##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/f1Zn3uo.png", KOMPAS TV (V+)
+##EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/f1Zn3uo.png" group-title="CHANNEL FAVORITE", KOMPAS TV (V+) (Work)
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-##EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-##KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
+##EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=13
 ##https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
 
 #EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_beritasatu_big1.png", BERITA SATU (DENS)
@@ -96,26 +92,23 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_s
 ##EXTVLCOPT:http-referrer=https://video.detik.com/
 ##https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 
-##EXTINF:-1 group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_big1.png", CNN INDONESIA (Live)
-##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
-
 ##EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="CHANNEL FAVORITE", iNEWS (Maxstream)
 ##EXTVLCOPT:http-referrer=https://www.indihometv.com 
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 ##KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 ##https://indihuy.streamized.net/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="CHANNEL FAVORITE", iNews (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+##EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="CHANNEL FAVORITE", iNews (R+) (Work)
+##EXTVLCOPT:http-user-agent=android-R+
+##EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+##https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-##EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object-streamo.emonaja.com/img/inews.png" group-title="CHANNEL FAVORITE", iNews (V+)
-##EXTVLCOPT:http-referrer=https://www.visionplus.id/
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-##KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=4&type=fitnah
-##https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTINF:-1 tvg-id="iNews.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://images.indihometv.com/logo_inews_big.pngg" group-title="CHANNEL FAVORITE", iNEWS (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=4
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 ##EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://images.indihometv.com/logo_inews_big.png" group-title="CHANNEL FAVORITE", iNEWS (ALT Vi)
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -172,11 +165,11 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h248/04.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yKw6vvt.png" group-title="CHANNEL FAVORITE", FOOD TRAVEL (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
+#EXTINF:-1 tvg-id="OKTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://i.imgur.com/yKw6vvt.png" group-title="CHANNEL FAVORITE", FOOD TRAVEL (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=71
 https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 ##EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://i.imgur.com/e9uVSRe.png" group-title="CHANNEL FAVORITE", MAX EATS (INDI)
@@ -191,17 +184,17 @@ https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/in
 ##https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_celestialmovie_big.png", Celestial Movies (V+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_thrill_big.png" group-title="CHANNEL FAVORITE",THRILL (V+)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=44
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/FkEC2u6.png", MNCTV (R+)
