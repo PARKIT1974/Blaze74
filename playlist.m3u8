@@ -205,7 +205,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/VGhyaWxs/manifest.mpd?signature=MjBiMGZkMzk5MGVmY2JiZDEyYzA1ZDA4M2ZlMDViZWY=&time=77777777777&device_id=1E44vSq6A0FLs3YH9luxpgZmK1MW5h2vOrLTzVu9HM34VMPLfw
 
 #EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_thrill_big.png", THRILL (MAX)
-#https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/FkEC2u6.png", MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
