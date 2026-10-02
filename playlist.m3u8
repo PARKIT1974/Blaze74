@@ -778,7 +778,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 ###https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 ##http://013tv.com:8080/live/F33848/cbd9779b/298516.ts
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://imgur.com/a/qWGNbnm", Drama Channel (V+)
+#EXTINF:-1 group-title="FILM" tvg-logo="https://imgur.com/a/qWGNbnm", Drama Channel (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -805,17 +805,17 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/db82aed7a1864935b8b8f960651c3db7/in
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=50
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (TS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
-https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179198
-http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
+##EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" group-title="FILM" tvg-logo="https://images.indihometv.com/logo_flik_big1.png", FLIK (TS)
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0 
+##EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+##KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstream.adaptive.manifest_type=dash
+##KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+##KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
+##https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest_wuseetv.mpd
+##https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
+##http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179198
+##http://013tv.com:8080/live/F33848/cbd9779b/165095.ts
 
 #EXTINF:-1 group-title="FILM" tvg-id="GALAXYPremium" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://images.indihometv.com/logo_galaxypremium_big.png", Galaxy Premium (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
