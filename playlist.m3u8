@@ -778,7 +778,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/ind
 ###https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 ##http://013tv.com:8080/live/F33848/cbd9779b/298516.ts
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://imgur.com/a/qWGNbnm", Drama Channel (V+)
+#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/TpfYE2p.png", Drama Channel (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
