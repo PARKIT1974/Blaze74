@@ -875,8 +875,8 @@ http://tv.cloudcdn.me/live.ts?channelId=132160&uid=10223&deviceMac=00:1A:79:07:0
 ##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 ##https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/fK6v0pl.png", HBO FAMILY HD
-http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://i.imgur.com/fK6v0pl.png" group-title="FILM", HBO FAMILY HD
+http://tv.cloudcdn.me/live.ts?channelId=93779&uid=10223&deviceMac=00:1A:79:07:07:43
 
 ##EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="FILM" tvg-logo="https://i.imgur.com/KDc6gxe.png", CINEMAX (Maxstream)
 ##KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
