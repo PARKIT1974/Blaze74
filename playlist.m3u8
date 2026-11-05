@@ -175,7 +175,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h248/04.m3u8
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 ##https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-id="OKTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/yKw6vvt.png", FOOD TRAVEL (V+)
+#EXTINF:-1 tvg-id="OKTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://i.imgur.com/yKw6vvt.png", FOOD TRAVEL (R+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -184,8 +184,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h248/04.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=71&type=drm&token=apistech
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=71&type=drm&token=alf-store
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=71
-https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
-
+#https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/foodtravel/index.m3u8
 
 ##EXTINF:-1 tvg-id="Max.Eats.id" tvg-logo="https://i.imgur.com/e9uVSRe.png" group-title="CHANNEL FAVORITE", MAX EATS (INDI)
 ##EXTVLCOPT:http-referrer=https://maxstream.tv/
