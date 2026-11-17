@@ -15,7 +15,7 @@
 ==============================================================================================================
 
 
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png", INDOSIAR (STAR)
+#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png", INDOSIAR (VID)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
@@ -24,7 +24,7 @@ https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title=CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png", SCTV (STAR)
+#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="CHANNEL FAVORITE" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png", SCTV (VID)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://bintangstreaming.my.id/000/vip.php/.mpd?id=204&type=dash
 
@@ -1091,7 +1091,7 @@ https://cdnjktbpid26.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/20
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 ##https://cdnjktcyber05.transvision.co.id/riutx01-5a1d00e9c5446ca948b790aeae20a779/dash/RHVuaWEgTGFpbg/manifest.mpd?signature=ZDgxOGY4YTcxNzhiM2JiY2Y0OGViMDI0NmU3MDQyYmE=&time=77777777777&device_id=3qBPI-VMdGO_z7u0ST5cIt29gOWrt_ujQBduxIYWxaYbm3tSwA
 
-#EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="SPECIAL CHANNEL" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_dunialain.png", Dunia Lain
+#EXTINF:-1 tvg-id="DuniaLain.id@SD" group-title="SPECIAL CHANNEL" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/4f477c14-5ec0-47d2-9665-925fe0056c64.png", Dunia Lain
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
